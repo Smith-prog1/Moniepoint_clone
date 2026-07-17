@@ -29,6 +29,9 @@ span{
 .open{
     background-color: #0357EE;
 }
+.open:hover{
+    background-color: #0357EE;
+}
 .sol{
     display: none;
 }
@@ -118,6 +121,9 @@ span{
 }
 .discovery:hover{
     transform: scale(0.9);
+}
+.learn-moreee:hover{
+    background-color: rgb(207, 200, 200);
 }
 .splide__arrows {
     display: none !important;
